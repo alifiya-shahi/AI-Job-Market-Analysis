@@ -22,3 +22,18 @@ Working on this project helped me get more comfortable with Python, Pandas and P
 If I work on this project again, I would like to use more recent job-market data and add more analysis around skills and salary. I would also like to improve the dashboard further and make the insights more detailed.
 
 Overall, this project gave me a better understanding of the complete data-analysis process, from working with raw data to presenting the final results.
+
+
+## 📊 Power BI Dashboard
+
+### Dashboard 1
+![AI Job Market Dashboard 1](AI-Job-Market-Dashboard-1.png)
+
+### Dashboard 2
+![AI Job Market Dashboard 2](AI-Job-Market-Dashboard-2.png)
+
+### Dashboard 3
+![AI Job Market Dashboard 3](AI-Job-Market-Dashboard-3.png)
+
+### Dashboard 4
+![AI Job Market Dashboard 4](AI-Job-Market-Dashboard-4.png)
