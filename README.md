@@ -26,14 +26,14 @@ Overall, this project gave me a better understanding of the complete data-analys
 
 ## 📊 Power BI Dashboard
 
-### Dashboard 1
+### Dashboard 1 — AI Job Market Overview
 ![AI Job Market Dashboard 1](AI-Job-Market-Dashboard-1.png)
 
-### Dashboard 2
+### Dashboard 2 — Salary Analysis
 ![AI Job Market Dashboard 2](AI-Job-Market-Dashboard-2.png)
 
-### Dashboard 3
+### Dashboard 3 — Experience & Education Analysis
 ![AI Job Market Dashboard 3](AI-Job-Market-Dashboard-3.png)
 
-### Dashboard 4
+### Dashboard 4 — Remote Work & Location Analysis
 ![AI Job Market Dashboard 4](AI-Job-Market-Dashboard-4.png)
