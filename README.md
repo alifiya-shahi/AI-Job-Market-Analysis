@@ -26,6 +26,8 @@ Overall, this project gave me a better understanding of the complete data-analys
 
 ## 📊 Power BI Dashboard
 
+This dashboard explores different aspects of the AI job market, including job demand, salaries, experience levels, education requirements, remote work, and job locations.
+
 ### Dashboard 1 — AI Job Market Overview
 ![AI Job Market Dashboard 1](AI-Job-Market-Dashboard-1.png)
 
